@@ -1,0 +1,21 @@
+{
+  "name": "google-indexing",
+  "version": "1.0.0",
+  "main": "indexing-automator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "fast-xml-parser": "^4.5.2",
+    "google-auth-library": "^9.15.1",
+    "googleapis": "^144.0.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "node-html-parser": "^7.0.1"
+  }
+}
